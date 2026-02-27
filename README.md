@@ -17,13 +17,13 @@ The dashboard provides interactive insights that help stakeholders identify grow
 
 ## Dataset Description
 The dataset includes:
-Transaction details
-Service category (Insurance, Loans, etc.)
-Payment amount
-Transaction status (Success / Failed)
-Failure reason
-Date information
-User activity summary
+- Transaction details
+- Service category (Insurance, Loans, etc.)
+- Payment amount
+- Transaction status (Success / Failed)
+- Failure reason
+- Date information
+- User activity summary
 
 ## Dashboard Features
 - KPI cards (Total Transactions, Success Rate, Revenue)
